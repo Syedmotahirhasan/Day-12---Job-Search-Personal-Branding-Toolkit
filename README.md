@@ -27,7 +27,7 @@ job — all in one session!
 ### 2. LinkedIn Profile Optimization
 - Professional headline created
 - About section written
-- Skills list optimized
+- Skills list optimized 
 - Featured section planned
 <img width="707" height="852" alt="image" src="https://github.com/user-attachments/assets/a3e1a8ba-a7b1-49fd-a3e8-e07b5036ee71" />
 
